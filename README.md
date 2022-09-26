@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tirumalakumar16
+- 👋 Hi, I’m @ Tirumala Kumar
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning as Full Stack Web Developer.
 - 💞️ I’m looking to collaborate on Everything we can capable of doning with Coding.
